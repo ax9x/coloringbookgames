@@ -1,6 +1,6 @@
 {
 
-	"Version"                   : 1.1,
+	"Version"                   : 1.2,
 
 
 	"AdsManager":
@@ -41,13 +41,13 @@
 			"Interstitial"      : "ADMOB",
 			"Reward"            : "ADMOB",
 
-			"TestAds"           : true,
-			"NoAdsMode"         : false,
+			"TestAds"           : false,
+			"NoAdsMode"         : true,
 
-			"UseTimeBanner"         : false,
+			"UseTimeBanner"         : true,
 			"TimeBanner"            : 0.5,
 
-			"UseTimeInterstitial"   : false,
+			"UseTimeInterstitial"   : true,
 			"TimeInterstitial"      : 0.5,
 
 			"UseTimeReward"         : false,
@@ -69,8 +69,8 @@
 			"Short"             : "Your Short",
 			"Message"           : "Your Message",
 
-			"Icon"              : "https://drive.google.com/uc?export=download&id=1OzZW9JeVxkcnTiA5Z-xlrAdmmqmGhzwR",
-			"Banner"            : "https://drive.google.com/uc?export=download&id=1PdotW3Qw8pGKTEHA4kqduYasrWBopZ8h",
+			"Icon"              : "",
+			"Banner"            : "",
 			"Url"               : "Url Apps",
 
 			"Time"              : 10,
