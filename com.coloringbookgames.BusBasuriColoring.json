@@ -41,7 +41,7 @@
 			"Interstitial"      : "ADMOB",
 			"Reward"            : "ADMOB",
 
-			"TestAds"           : true,
+			"TestAds"           : false,
 			"NoAdsMode"         : false,
 
 			"UseTimeBanner"         : false,
@@ -71,7 +71,7 @@
 
 			"Icon"              : "",
 			"Banner"            : "",
-			"Url"               : "Url Apps",
+			"Url"               : "",
 
 			"Time"              : 10,
 			"Interval"          : 4,
