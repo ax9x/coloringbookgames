@@ -1,6 +1,6 @@
 {
 
-	"Version"                   : 1.3,
+	"Version"                   : 1.4,
 
 
 	"AdsManager":
@@ -44,10 +44,10 @@
 			"TestAds"           : false,
 			"NoAdsMode"         : false,
 
-			"UseTimeBanner"         : true,
+			"UseTimeBanner"         : false,
 			"TimeBanner"            : 0.5,
 
-			"UseTimeInterstitial"   : true,
+			"UseTimeInterstitial"   : false,
 			"TimeInterstitial"      : 0.5,
 
 			"UseTimeReward"         : false,
