@@ -1,6 +1,6 @@
 {
 
-	"Version"                   : 1.2,
+	"Version"                   : 1.3,
 
 
 	"AdsManager":
@@ -14,15 +14,15 @@
 
 		"Applovin":
 		{
-			"SdkKey"            : "wGgouK8ceE3PagHWGasnC2yCDkIGIQeeNA3BRgRrEU7eIT8oLkhBccaHZAsgcr8A7_l9rD52E8bduALTWITuWO",
-			"BannerId"          : "e4f05e0a644fc2bb",
-			"InterstitialId"    : "7aaadff61af72862",
-			"RewardId"          : "0182b0bf55edb8fd"
+			"SdkKey"            : "wGgouK8ceE3PagHWGasnC2yCDkIGIQeeNA3BRgRrEU7eIT8oLkhBccaHZAsgcr8A7_l9rD52E8bduALTWITuWOx",
+			"BannerId"          : "e4f05e0a644fc2bbx",
+			"InterstitialId"    : "7aaadff61af72862x",
+			"RewardId"          : "0182b0bf55edb8fdx"
 		},
 
 		"UnityAds":
 		{
-			"GameId"            : "4840928",
+			"GameId"            : "5455686",
 			"BannerId"          : "Banner_Android",
 			"InterstitialId"    : "Interstitial_Android",
 			"RewardId"          : "Rewarded_Android"
