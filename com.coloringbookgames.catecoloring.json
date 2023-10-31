@@ -1,6 +1,6 @@
 {
 
-	"Version"                   : 1.5,
+	"Version"                   : 1.6,
 
 
 	"AdsManager":
@@ -14,10 +14,10 @@
 
 		"Applovin":
 		{
-			"SdkKey"            : "wGgouK8ceE3PagHWGasnC2yCDkIGIQeeNA3BRgRrEU7eIT8oLkhBccaHZAsgcr8A7_l9rD52E8bduALTWITuWO",
-			"BannerId"          : "e4f05e0a644fc2bb",
-			"InterstitialId"    : "7aaadff61af72862",
-			"RewardId"          : "0182b0bf55edb8fd"
+			"SdkKey"            : "u4pMoTgxaTIoEydcaNLk_kpxRxidkCblikeAm9nE9DvhtoLUnQUaTztUpxZdAfPeXihgx6kxTEa1GZskV64763",
+			"BannerId"          : "8ffe4c66936df104",
+			"InterstitialId"    : "c95da12d64c52f8c",
+			"RewardId"          : "ba5b3096206ef79f"
 		},
 
 		"UnityAds":
@@ -65,13 +65,13 @@
 
 		"CrossPromote":
 		{
-			"Title"             : "Your Title",
-			"Short"             : "Your Short",
-			"Message"           : "Your Message",
+			"Title"             : "",
+			"Short"             : "",
+			"Message"           : "",
 
 			"Icon"              : "",
 			"Banner"            : "",
-			"Url"               : "Url Apps",
+			"Url"               : "",
 
 			"Time"              : 10,
 			"Interval"          : 4,
