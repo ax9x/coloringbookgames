@@ -1,14 +1,14 @@
 {
 
-	"Version"                   : 1.6,
+	"Version"                   : 1.9,
 
 
 	"AdsManager":
 	{		  
 		"Admob":
 		{
-			"BannerId"          : "ca-app-pub-8575204904100554/2790519564",
-			"InterstitialId"    : "ca-app-pub-8575204904100554/5047310956",
+			"BannerId"          : "ca-app-pub-2136203941307516/4408464663",
+			"InterstitialId"    : "ca-app-pub-2136203941307516/1673602069",
 			"RewardId"          : "ca-app-pub-8575204904100554/2090544311"
 		},
 
@@ -33,40 +33,67 @@
 	{
 		"Ads":
 		{
-			"ADMOB"             : "Backup Applovin Backup UnityAds",
-			"APPLOVIN"          : "Backup UnityAds",
-			"UNITY"             : "No Backup",
-
-			"Banner"            : "APPLOVIN",
-			"Interstitial"      : "APPLOVIN",
-			"Reward"            : "APPLOVIN",
-
 			"TestAds"           : false,
 			"NoAdsMode"         : false,
 
-			"UseTimeBanner"         : false,
-			"TimeBanner"            : 0.5,
-
-			"UseTimeInterstitial"   : false,
-			"TimeInterstitial"      : 0.5,
-
-			"UseTimeReward"         : false,
-			"TimeReward"            : 0.5,
-
-			"HpkAdmob":
+			"Banner":
 			{
-				"HPK1"      : "Donate",
-				"HPK2"      : "Crypto",
-				"HPK3"      : "Money",
-				"HPK4"      : "Finance",
-				"HPK5"      : "Install"
+				"First"         : "APPLOVIN",
+				"Backup1"       : "ADMOB",
+				"Backup2"       : "UNITY"
+			},
+
+			"Interstitial":
+			{
+				"First"         : "APPLOVIN",
+				"Backup1"       : "ADMOB",
+				"Backup2"       : "UNITY"
+			},
+
+			"Reward":
+			{
+				"First"         : "APPLOVIN",
+				"Backup1"       : "ADMOB",
+				"Backup2"       : "UNITY"
+			},
+
+			"UseTime" :
+			{
+				"Banner"        : false,
+				"Interstitial"  : false,
+				"Reward"        : true
+			},
+			"SetTime":
+			{
+				"Banner"        : 0.5,
+				"Interstitial"  : 0.5,
+				"Reward"        : 0.5
 			}
+		},
+
+		"HpkAdmob":
+		{
+			"HPK1"              : "Donate",
+			"HPK2"              : "Crypto",
+			"HPK3"              : "Money",
+			"HPK4"              : "Finance",
+			"HPK5"              : "Install"
+		},
+
+		"GDPR":
+		{
+			"Url"               : "https://arinthagamesandapp.blogspot.com"
+		},
+
+		"MoreApps":
+		{
+			"Url"               : "https://play.google.com/store/apps/dev?id=6710861777314080521"
 		},
 
 		"CrossPromote":
 		{
 			"Title"             : "",
-			"Short"             : "",
+			"Short"             : "t",
 			"Message"           : "",
 
 			"Icon"              : "",
@@ -74,9 +101,7 @@
 			"Url"               : "",
 
 			"Time"              : 10,
-			"Interval"          : 4,
 			"Install"           : 5
-		}
+		}	
 	}
-
 }
