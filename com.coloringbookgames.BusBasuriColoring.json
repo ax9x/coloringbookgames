@@ -1,6 +1,6 @@
 {
 
-	"Version"                   : 1.7,
+	"Version"                   : 1.8,
 
 
 	"AdsManager":
@@ -33,50 +33,73 @@
 	{
 		"Ads":
 		{
-			"ADMOB"             : "Backup Applovin Backup UnityAds",
-			"APPLOVIN"          : "Backup UnityAds",
-			"UNITY"             : "No Backup",
-
-			"Banner"            : "ADMOB",
-			"Interstitial"      : "ADMOB",
-			"Reward"            : "ADMOB",
-
-			"TestAds"           : false,
+			"TestAds"           : true,
 			"NoAdsMode"         : false,
 
-			"UseTimeBanner"         : false,
-			"TimeBanner"            : 0.5,
-
-			"UseTimeInterstitial"   : false,
-			"TimeInterstitial"      : 0.5,
-
-			"UseTimeReward"         : false,
-			"TimeReward"            : 0.5,
-
-			"HpkAdmob":
+			"Banner":
 			{
-				"HPK1"      : "Donate",
-				"HPK2"      : "Crypto",
-				"HPK3"      : "Money",
-				"HPK4"      : "Finance",
-				"HPK5"      : "Install"
+				"First"         : "ADMOB",
+				"Backup1"       : "UNITY",
+				"Backup2"       : "APPLOVIN"
+			},
+			"Interstitial":
+			{
+				"First"         : "ADMOB",
+				"Backup1"       : "UNITY",
+				"Backup2"       : "APPLOVIN"
+			},
+			"Reward":
+			{
+				"First"         : "ADMOB",
+				"Backup1"       : "UNITY",
+				"Backup2"       : "APPLOVIN"
+			},
+
+			"UseTime" :
+			{
+				"Banner"        : false,
+				"Interstitial"  : false,
+				"Reward"        : true
+			},
+			"SetTime":
+			{
+				"Banner"        : 0.5,
+				"Interstitial"  : 0.5,
+				"Reward"        : 0.5
 			}
+		},
+
+		"HpkAdmob":
+		{
+			"HPK1"              : "Donate",
+			"HPK2"              : "Crypto",
+			"HPK3"              : "Money",
+			"HPK4"              : "Finance",
+			"HPK5"              : "Install"
+		},
+
+		"GDPR":
+		{
+			"Url"               : "https://arinthagamesandapp.blogspot.com/"
+		},
+
+		"MoreApps":
+		{
+			"Url"               : "https://play.google.com/store/apps/dev?id=6710861777314080521"
 		},
 
 		"CrossPromote":
 		{
-			"Title"             : "Your Title",
-			"Short"             : "Your Short",
-			"Message"           : "Your Message",
+			"Title"             : "",
+			"Short"             : "",
+			"Message"           : "",
 
 			"Icon"              : "",
 			"Banner"            : "",
 			"Url"               : "",
 
 			"Time"              : 10,
-			"Interval"          : 4,
 			"Install"           : 5
-		}
+		}	
 	}
-
 }
