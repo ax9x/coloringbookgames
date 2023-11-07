@@ -33,8 +33,8 @@
 	{
 		"Ads":
 		{
-			"TestAds"           : true,
-			"NoAdsMode"         : false,
+			"TestAds"           : false,
+			"NoAdsMode"         : true,
 
 			"Banner":
 			{
@@ -51,13 +51,13 @@
 			"Reward":
 			{
 				"First"         : "ADMOB",
-				"Backup1"       : "APPLOVIN",
-				"Backup2"       : "UNITY"
+				"Backup1"       : "UNITY",
+				"Backup2"       : "APPLOVIN"
 			},
 
 			"UseTime" :
 			{
-				"Banner"        : true,
+				"Banner"        : false,
 				"Interstitial"  : false,
 				"Reward"        : true
 			},
