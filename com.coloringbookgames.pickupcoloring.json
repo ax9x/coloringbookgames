@@ -1,0 +1,105 @@
+{
+
+	"Version"                   : 1.1,
+
+
+	"AdsManager":
+	{		  
+		"Admob":
+		{
+			"BannerId"          : "ca-app-pub-8575204904100554/2790519564",
+			"InterstitialId"    : "ca-app-pub-8575204904100554/5047310956",
+			"RewardId"          : "ca-app-pub-8575204904100554/2090544311"
+		},
+
+		"Applovin":
+		{
+			"SdkKey"            : "wGgouK8ceE3PagHWGasnC2yCDkIGIQeeNA3BRgRrEU7eIT8oLkhBccaHZAsgcr8A7_l9rD52E8bduALTWITuWO",
+			"BannerId"          : "e4f05e0a644fc2bb",
+			"InterstitialId"    : "7aaadff61af72862",
+			"RewardId"          : "0182b0bf55edb8fd"
+		},
+
+		"UnityAds":
+		{
+			"GameId"            : "4840928",
+			"BannerId"          : "Banner_Android",
+			"InterstitialId"    : "Interstitial_Android",
+			"RewardId"          : "Rewarded_Android"
+		}			
+	},
+
+	"Settings":
+	{
+		"Ads":
+		{
+			"TestAds"           : true,
+			"NoAdsMode"         : false,
+
+			"Banner":
+			{
+				"First"         : "ADMOB",
+				"Backup1"       : "APPLOVIN",
+				"Backup2"       : "UNITY"
+			},
+			"Interstitial":
+			{
+				"First"         : "ADMOB",
+				"Backup1"       : "APPLOVIN",
+				"Backup2"       : "UNITY"
+			},
+			"Reward":
+			{
+				"First"         : "ADMOB",
+				"Backup1"       : "APPLOVIN",
+				"Backup2"       : "UNITY"
+			},
+
+			"UseTime" :
+			{
+				"Banner"        : true,
+				"Interstitial"  : false,
+				"Reward"        : true
+			},
+			"SetTime":
+			{
+				"Banner"        : 0.5,
+				"Interstitial"  : 0.5,
+				"Reward"        : 0.5
+			}
+		},
+
+		"HpkAdmob":
+		{
+			"HPK1"              : "Donate",
+			"HPK2"              : "Crypto",
+			"HPK3"              : "Money",
+			"HPK4"              : "Finance",
+			"HPK5"              : "Install"
+		},
+
+		"GDPR":
+		{
+			"Url"               : "isi dengan url privacy policy godev"
+		},
+
+		"MoreApps":
+		{
+			"Url"               : "Isi dengan Url More app godev"
+		},
+
+		"CrossPromote":
+		{
+			"Title"             : "Your Title",
+			"Short"             : "Your Short",
+			"Message"           : "Your Message",
+
+			"Icon"              : "https://drive.google.com/uc?export=download&id=1OzZW9JeVxkcnTiA5Z-xlrAdmmqmGhzwR",
+			"Banner"            : "https://drive.google.com/uc?export=download&id=1PdotW3Qw8pGKTEHA4kqduYasrWBopZ8h",
+			"Url"               : "Url Apps",
+
+			"Time"              : 10,
+			"Install"           : 5
+		}	
+	}
+}
