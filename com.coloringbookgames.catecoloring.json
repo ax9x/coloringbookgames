@@ -38,15 +38,15 @@
 
 			"Banner":
 			{
-				"First"         : "ADMOB",
-				"Backup1"       : "APPLOVIN",
+				"First"         : "APPLOVIN",
+				"Backup1"       : "ADMOB",
 				"Backup2"       : "UNITY"
 			},
 
 			"Interstitial":
 			{
-				"First"         : "ADMOB",
-				"Backup1"       : "APPLOVIN",
+				"First"         : "APPLOVIN",
+				"Backup1"       : "ADMOB",
 				"Backup2"       : "UNITY"
 			},
 
