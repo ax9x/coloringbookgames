@@ -15,9 +15,9 @@
 		"Applovin":
 		{
 			"SdkKey"            : "u4pMoTgxaTIoEydcaNLk_kpxRxidkCblikeAm9nE9DvhtoLUnQUaTztUpxZdAfPeXihgx6kxTEa1GZskV64763",
-			"BannerId"          : "e4f05e0a644fc2bb",
-			"InterstitialId"    : "7aaadff61af72862",
-			"RewardId"          : "0182b0bf55edb8fd"
+			"BannerId"          : "2a145eebb0b036e7",
+			"InterstitialId"    : "f7aa8dc27596a693",
+			"RewardId"          : ""
 		},
 
 		"UnityAds":
