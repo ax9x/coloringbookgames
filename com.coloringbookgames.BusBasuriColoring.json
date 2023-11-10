@@ -1,6 +1,6 @@
 {
 
-	"Version"                   : 1.8,
+	"Version"                   : 1.9,
 
 
 	"AdsManager":
@@ -90,13 +90,13 @@
 
 		"CrossPromote":
 		{
-			"Title"             : "",
-			"Short"             : "",
-			"Message"           : "",
+			"Title"             : "PickUp Oleng Coloring",
+			"Short"             : "Download Sekarang mumpung masih anget banh:)",
+			"Message"           : "Download Pickup Coloring dengan klik Install di bawah",
 
-			"Icon"              : "",
-			"Banner"            : "",
-			"Url"               : "",
+			"Icon"              : "https://drive.google.com/uc?export=download&id=1hds2SpG_D_-22z76brJW7eAeSR7a7ct9",
+			"Banner"            : "https://drive.google.com/uc?export=download&id=1VWd77nYr2AJSynFIMcMbHCfU7mYT4tGd",
+			"Url"               : "https://play.google.com/store/apps/details?id=com.coloringbookgames.pickupcoloring&hl=id&gl=US",
 
 			"Time"              : 10,
 			"Install"           : 5
