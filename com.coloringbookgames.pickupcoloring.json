@@ -1,6 +1,6 @@
 {
 
-	"Version"                   : 1.1,
+	"Version"                   : 2,
 
 
 	"AdsManager":
@@ -76,11 +76,6 @@
 			"HPK3"              : "Money",
 			"HPK4"              : "Finance",
 			"HPK5"              : "Install"
-		},
-
-		"GDPR":
-		{
-			"Url"               : "https://arinthagamesandapp.blogspot.com"
 		},
 
 		"MoreApps":
