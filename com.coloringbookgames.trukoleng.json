@@ -1,6 +1,6 @@
 {
 
-	"Version"                   : 1.1,
+	"Version"                   : 2,
 
 
 	"AdsManager":
@@ -82,11 +82,6 @@
 		"GDPR":
 		{
 			"Url"               : "https://arinthagamesandapp.blogspot.com"
-		},
-
-		"MoreApps":
-		{
-			"Url"               : "https://play.google.com/store/apps/dev?id=6710861777314080521"
 		},
 
 		"CrossPromote":
