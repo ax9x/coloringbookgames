@@ -1,6 +1,6 @@
 {
 
-	"Version"                   : 2,
+	"Version"                   : 3,
 
 
 	"AdsManager":
@@ -34,19 +34,19 @@
 		"Ads":
 		{
 			"TestAds"           : false,
-			"NoAdsMode"         : true,
+			"NoAdsMode"         : false,
 
 			"WARNING" : "Gunakan key ADMOB, APPLOVIN, UNITY. Jika tidak maka ikan akan error",
 			"Banner":
 			{
-				"First"         : "ADMOB",
-				"Backup1"       : "UNITY",
+				"First"         : "UNITY",
+				"Backup1"       : "ADMOB",
 				"Backup2"       : "APPLOVIN"
 			},
 			"Interstitial":
 			{
-				"First"         : "ADMOB",
-				"Backup1"       : "UNITY",
+				"First"         : "UNITY",
+				"Backup1"       : "ADMOB",
 				"Backup2"       : "APPLOVIN"
 			},
 			"Reward":
