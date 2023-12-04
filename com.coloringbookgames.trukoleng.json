@@ -1,6 +1,6 @@
 {
 
-	"Version"                   : 6,
+	"Version"                   : 7,
 
 
 	"AdsManager":
@@ -86,13 +86,13 @@
 
 		"CrossPromote":
 		{
-			"Title"             : "Your Title",
-			"Short"             : "Your Short",
-			"Message"           : "Your Message",
+			"Title"             : "Drag Bike Coloring",
+			"Short"             : "Download Drag Bike Now",
+			"Message"           : "Click Install for Download",
 
-			"Icon"              : "",
-			"Banner"            : "",
-			"Url"               : "Url Apps",
+			"Icon"              : "https://drive.google.com/uc?export=download&id=1QiUoo2S3uIEvgQr9CdNNUcN_LIjTBMLM",
+			"Banner"            : "https://drive.google.com/uc?export=download&id=1rcsxBkXA1KexIUk6MrqM7y_vxR9_IhRo",
+			"Url"               : "https://play.google.com/store/apps/details?id=com.coloringbookgames.dragcoloring&hl=id&gl=US",
 
 			"Time"              : 10,
 			"Install"           : 5
