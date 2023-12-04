@@ -1,6 +1,6 @@
 {
 
-	"Version"                   : 4,
+	"Version"                   : 6,
 
 
 	"AdsManager":
@@ -58,7 +58,7 @@
 
 			"UseTime" :
 			{
-				"Banner"        : false,
+				"Banner"        : true,
 				"Interstitial"  : false,
 				"Reward"        : true
 			},
