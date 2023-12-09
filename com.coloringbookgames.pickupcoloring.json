@@ -1,6 +1,6 @@
 {
 
-	"Version"                   : 5,
+	"Version"                   : 6,
 
 
 	"AdsManager":
@@ -39,14 +39,14 @@
 			"Banner":
 			{
 				"First"         : "ADMOB",
-				"Backup1"       : "APPLOVIN",
-				"Backup2"       : "UNITY"
+				"Backup1"       : "UNITY",
+				"Backup2"       : "ADMOB"
 			},
 			"Interstitial":
 			{
 				"First"         : "ADMOB",
-				"Backup1"       : "APPLOVIN",
-				"Backup2"       : "UNITY"
+				"Backup1"       : "UNITY",
+				"Backup2"       : "ADMOB"
 			},
 			"Reward":
 			{
