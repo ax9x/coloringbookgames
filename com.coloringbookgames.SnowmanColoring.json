@@ -92,8 +92,7 @@
 			"Banner"            : "",
 			"Url"               : "",
 
-			"Time"              : 10,
-			"Install"           : 5
+			"Time"              : 10
 		}	
 	}
 }
