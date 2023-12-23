@@ -1,8 +1,4 @@
 {
-
-	"Version"                   : 2,
-
-
 	"AdsManager":
 	{		  
 		"Admob":
@@ -86,6 +82,8 @@
 
 		"CrossPromote":
 		{
+			"Version"           : 1,
+			
 			"Title"             : "",
 			"Short"             : "",
 			"Message"           : "",
@@ -94,8 +92,7 @@
 			"Banner"            : "",
 			"Url"               : "",
 
-			"Time"              : 10,
-			"Install"           : 5
+			"Time"              : 10
 		}	
 	}
 }
