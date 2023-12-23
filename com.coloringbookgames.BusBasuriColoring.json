@@ -1,8 +1,4 @@
 {
-
-	"Version"                   : 4,
-
-
 	"AdsManager":
 	{		  
 		"Admob":
@@ -85,6 +81,8 @@
 
 		"CrossPromote":
 		{
+			"Version"           : 4,
+			
 			"Title"             : "Truck Oleng Coloring",
 			"Short"             : "Download Sekarang Truck Oleng",
 			"Message"           : "Download TRUCK Coloring dengan klik Install di bawah",
@@ -93,8 +91,7 @@
 			"Banner"            : "https://drive.google.com/uc?export=download&id=109uYUG7X0LFfe94OsRNuXj9fd1D2Xgtz",
 			"Url"               : "https://play.google.com/store/apps/details?id=com.coloringbookgames.trukoleng&hl=id&gl=US",
 
-			"Time"              : 10,
-			"Install"           : 5
+			"Time"              : 10
 		}	
 	}
 }
