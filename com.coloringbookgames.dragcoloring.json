@@ -82,15 +82,15 @@
 
 		"CrossPromote":
 		{
-			"Version"           : 7,
+			"Version"           : 8,
 			
-			"Title"             : "PickUp Car Coloring",
-			"Short"             : "Download Now",
+			"Title"             : "Ninja Motorbike Coloring Pages",
+			"Short"             : "Come on, color your favorite motorbike",
 			"Message"           : "Click Install for Download",
 
-			"Icon"              : "https://drive.google.com/uc?export=download&id=1hds2SpG_D_-22z76brJW7eAeSR7a7ct9",
-			"Banner"            : "https://drive.google.com/uc?export=download&id=1VWd77nYr2AJSynFIMcMbHCfU7mYT4tGd",
-			"Url"               : "https://play.google.com/store/apps/details?id=com.coloringbookgames.pickupcoloring&hl=id&gl=US",
+			"Icon"              : "https://drive.google.com/uc?export=download&id=1fDQIYfc9WwKro_kqqWX6U31Bej5zHGLj",
+			"Banner"            : "https://drive.google.com/uc?export=download&id=1J9MK9-2ngeIYWldB_iLiE-ogDuw0ZEY7",
+			"Url"               : "https://play.google.com/store/apps/details?id=com.coloringbookgames.ninjabikeColoring",
 
 			"Time"              : 60
 		}	
