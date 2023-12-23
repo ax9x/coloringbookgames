@@ -81,17 +81,17 @@
 
 		"CrossPromote":
 		{
-			"Version"           : 4,
+			"Version"           : 6,
 			
-			"Title"             : "Truck Oleng Coloring",
-			"Short"             : "Download Sekarang Truck Oleng",
-			"Message"           : "Download TRUCK Coloring dengan klik Install di bawah",
+			"Title"             : "Military Tank Coloring Pages",
+			"Short"             : "Come on, color your favorite tank",
+			"Message"           : "Download Tank Coloring by clicking Install below",
 
-			"Icon"              : "https://drive.google.com/uc?export=download&id=1yVUsQJ7v-xABxYq0NlZ1yLVfrwmLUP2L",
-			"Banner"            : "https://drive.google.com/uc?export=download&id=109uYUG7X0LFfe94OsRNuXj9fd1D2Xgtz",
-			"Url"               : "https://play.google.com/store/apps/details?id=com.coloringbookgames.trukoleng&hl=id&gl=US",
+			"Icon"              : "https://drive.google.com/uc?export=download&id=1J_TwYzDDOZuWb8KlZabinAkO8JPcZ0Xg",
+			"Banner"            : "https://drive.google.com/uc?export=download&id=1lJNlhYV_K1-JdKSqn8ivHGvPfemBQJXx",
+			"Url"               : "https://play.google.com/store/apps/details?id=com.coloringbookgames.TankColoring",
 
-			"Time"              : 10
+			"Time"              : 60
 		}	
 	}
 }
