@@ -54,7 +54,7 @@
 
 			"UseTime" :
 			{
-				"Banner"        : true,
+				"Banner"        : false,
 				"Interstitial"  : false,
 				"Reward"        : true
 			},
