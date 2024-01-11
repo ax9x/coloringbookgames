@@ -35,14 +35,14 @@
 			"Banner":
 			{
 				"First"         : "ADMOB",
-				"Backup1"       : "APPLOVIN",
-				"Backup2"       : "UNITY"
+				"Backup1"       : "UNITY",
+				"Backup2"       : "APPLOVIN"
 			},
 			"Interstitial":
 			{
 				"First"         : "ADMOB",
-				"Backup1"       : "APPLOVIN",
-				"Backup2"       : "UNITY"
+				"Backup1"       : "UNITY",
+				"Backup2"       : "APPLOVIN"
 			},
 			"Reward":
 			{
