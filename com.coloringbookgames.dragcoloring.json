@@ -37,13 +37,13 @@
 			{
 				"First"         : "ADMOB",
 				"Backup1"       : "UNITY",
-				"Backup2"       : "ADMOB"
+				"Backup2"       : "APPLOVIN"
 			},
 			"Interstitial":
 			{
 				"First"         : "ADMOB",
 				"Backup1"       : "UNITY",
-				"Backup2"       : "ADMOB"
+				"Backup2"       : "APPLOVIN"
 			},
 			"Reward":
 			{
