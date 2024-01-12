@@ -85,15 +85,15 @@
 		{
 			"Version"           : 7,
 			
-			"Title"             : "Drag Bike Coloring",
-			"Short"             : "Download Drag Bike Now",
-			"Message"           : "Click Install for Download",
+			"Title"             : "Tank Coloring Pages",
+			"Short"             : "Download Tank Coloring Pages Sekarang",
+			"Message"           : "Click Install for Download Tank Coloring Pages",
 
-			"Icon"              : "https://drive.google.com/uc?export=download&id=1QiUoo2S3uIEvgQr9CdNNUcN_LIjTBMLM",
-			"Banner"            : "https://drive.google.com/uc?export=download&id=1rcsxBkXA1KexIUk6MrqM7y_vxR9_IhRo",
-			"Url"               : "https://play.google.com/store/apps/details?id=com.coloringbookgames.dragcoloring&hl=id&gl=US",
+			"Icon"              : "https://drive.google.com/uc?export=download&id=1J_TwYzDDOZuWb8KlZabinAkO8JPcZ0Xg",
+			"Banner"            : "https://drive.google.com/uc?export=download&id=1lJNlhYV_K1-JdKSqn8ivHGvPfemBQJXx",
+			"Url"               : "https://play.google.com/store/apps/details?id=com.coloringbookgames.TankColoring",
 
-			"Time"              : 30
+			"Time"              : 10
 		}	
 	}
 }
