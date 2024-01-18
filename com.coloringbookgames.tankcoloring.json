@@ -3,8 +3,8 @@
 	{		  
 		"Admob":
 		{
-			"BannerId"          : "ca-app-pub-2136203941307516/1811950827",
-			"InterstitialId"    : "ca-app-pub-2136203941307516/4365961974",
+			"BannerId"          : "ca-app-pub-2136203941307516/4896115754",
+			"InterstitialId"    : "ca-app-pub-2136203941307516/8867984503",
 			"RewardId"          : ""
 		},
 
@@ -30,20 +30,20 @@
 		"Ads":
 		{
 			"TestAds"           : false,
-			"NoAdsMode"         : true,
+			"NoAdsMode"         : false,
 
 			"WARNING" : "Gunakan key ADMOB, APPLOVIN, UNITY. Jika tidak maka ikan akan error",
 			"Banner":
 			{
 				"First"         : "ADMOB",
-				"Backup1"       : "APPLOVIN",
-				"Backup2"       : "UNITY"
+				"Backup1"       : "UNITY",
+				"Backup2"       : "APPLOVIN"
 			},
 			"Interstitial":
 			{
 				"First"         : "ADMOB",
-				"Backup1"       : "APPLOVIN",
-				"Backup2"       : "UNITY"
+				"Backup1"       : "UNITY",
+				"Backup2"       : "APPLOVIN"
 			},
 			"Reward":
 			{
