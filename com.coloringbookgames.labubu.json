@@ -85,15 +85,15 @@
 			"Version"           : 1,
 
 
-			"Title"             : "",
-			"Short"             : "",
-			"Message"           : "",
+			"Title"             : "Anime Coloring Pages",
+			"Short"             : "Let's color your favorite Anime",
+			"Message"           : "Download Now!",
 
-			"Icon"              : "",
-			"Banner"            : "",
-			"Url"               : "",
+			"Icon"              : "https://drive.google.com/uc?export=download&id=1jDMPllYVvEa8aRUJQpB_7T0jtimzqBsb",
+			"Banner"            : "https://drive.google.com/uc?export=download&id=17gzoJZgKSwLB8RnynxOHeEKOf9Gin4_6",
+			"Url"               : "https://play.google.com/store/apps/details?id=com.coloringbookgames.anime&hl=id",
 
-			"Time"              : 30
+			"Time"              : 20
 		}	
 	}
 }
