@@ -3,8 +3,8 @@
 	{		  
 		"Admob":
 		{
-			"BannerId"          : "ca-app-pub-4206007966541464/2077084831",
-			"InterstitialId"    : "ca-app-pub-4206007966541464/4785312106",
+			"BannerId"          : "ca-app-pub-4206007966541464/7689373665",
+			"InterstitialId"    : "ca-app-pub-4206007966541464/9667194962",
 			"RewardId"          : ""
 		},
 
@@ -97,6 +97,7 @@
 		}	
 	}
 }
+
 
 
 
