@@ -65,16 +65,7 @@
 				"Reward"        : 0.5
 			}
 		},
-
-		"HpkAdmob":
-		{
-			"HPK1"              : "Donate",
-			"HPK2"              : "Crypto",
-			"HPK3"              : "Money",
-			"HPK4"              : "Finance",
-			"HPK5"              : "Install"
-		},
-
+		
 		"MoreApps":
 		{
 			"Url"               : "https://play.google.com/store/apps/developer?id=Coloring+book+Games&hl=en_US"
@@ -96,4 +87,5 @@
 			"Time"              : 30
 		}	
 	}
+
 }
