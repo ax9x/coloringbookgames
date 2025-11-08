@@ -3,22 +3,22 @@
 	{		  
 		"Admob":
 		{
-			"BannerId"          : "ca-app-pub-2136203941307516/1811950827",
-			"InterstitialId"    : "ca-app-pub-2136203941307516/4365961974",
+			"BannerId"          : "ca-app-pub-2136203941307516/4896115754",
+			"InterstitialId"    : "ca-app-pub-2136203941307516/8867984503",
 			"RewardId"          : ""
 		},
 
 		"Applovin":
 		{
 			"SdkKey"            : "pB52eKs6s0q30NoKK71eVUZh_7hvZtBvuCnNF0rFs1SxSUHw_9NzPdpcMoSTJDJ446vrBNugARLaNAcuJgegug",
-			"BannerId"          : "0deb432295ffae8b",
-			"InterstitialId"    : "e9336d2e6d521500",
+			"BannerId"          : "c45ffdcb75bf1298",
+			"InterstitialId"    : "dab81803485c6bb6",
 			"RewardId"          : ""
 		},
 
 		"UnityAds":
 		{
-			"GameId"            : "5523357",
+			"GameId"            : "5151999",
 			"BannerId"          : "Banner_Android",
 			"InterstitialId"    : "Interstitial_Android",
 			"RewardId"          : "Rewarded_Android"
@@ -30,7 +30,7 @@
 		"Ads":
 		{
 			"TestAds"           : false,
-			"NoAdsMode"         : true,
+			"NoAdsMode"         : false,
 
 			"WARNING" : "Gunakan key ADMOB, APPLOVIN, UNITY. Jika tidak maka ikan akan error",
 			"Banner":
@@ -65,7 +65,16 @@
 				"Reward"        : 0.5
 			}
 		},
-		
+
+		"HpkAdmob":
+		{
+			"HPK1"              : "Donate",
+			"HPK2"              : "Crypto",
+			"HPK3"              : "Money",
+			"HPK4"              : "Finance",
+			"HPK5"              : "Install"
+		},
+
 		"MoreApps":
 		{
 			"Url"               : "https://play.google.com/store/apps/developer?id=Coloring+book+Games&hl=en_US"
@@ -87,5 +96,4 @@
 			"Time"              : 30
 		}	
 	}
-
 }
